@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F677711-32E6-46EF-8EF4-DA0F4488EE8C}|Domain\\Domain.csproj|c:\\users\\50045\\documents\\desenvolvimento\\c#\\producao\\hub_api - teste\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F677711-32E6-46EF-8EF4-DA0F4488EE8C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6372FB5-F294-419C-BC6B-4E25A23247F0}|Presentation\\Presentation.csproj|c:\\users\\50045\\documents\\desenvolvimento\\c#\\producao\\hub_api - teste\\presentation\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6372FB5-F294-419C-BC6B-4E25A23247F0}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6372FB5-F294-419C-BC6B-4E25A23247F0}|Presentation\\Presentation.csproj|c:\\users\\50045\\documents\\desenvolvimento\\c#\\producao\\hub_api - teste\\presentation\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6372FB5-F294-419C-BC6B-4E25A23247F0}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEA9B07-2C30-40A3-BA2E-42917369961B}|Infrastructure\\Infrastructure.csproj|c:\\users\\50045\\documents\\desenvolvimento\\c#\\producao\\hub_api - teste\\infrastructure\\repositories\\orcamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEA9B07-2C30-40A3-BA2E-42917369961B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\orcamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742EE3F-4501-4D82-B6FD-025B9A88A0EF}|Application\\Application.csproj|c:\\users\\50045\\documents\\desenvolvimento\\c#\\producao\\hub_api - teste\\application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742EE3F-4501-4D82-B6FD-025B9A88A0EF}|Application\\Application.csproj|solutionrelative:application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742EE3F-4501-4D82-B6FD-025B9A88A0EF}|Application\\Application.csproj|c:\\users\\50045\\documents\\desenvolvimento\\c#\\producao\\hub_api - teste\\application\\services\\orcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742EE3F-4501-4D82-B6FD-025B9A88A0EF}|Application\\Application.csproj|solutionrelative:application\\services\\orcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Presentation\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Presentation\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Presentation\\Models\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:34:05.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:32:47.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrcamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Presentation\\Controllers\\OrcamentoController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\OrcamentoController.cs",
+              "ToolTip": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Presentation\\Controllers\\OrcamentoController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\OrcamentoController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAUwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:09:41.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrcamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Application\\Services\\OrcamentoService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrcamentoService.cs",
+              "ToolTip": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Application\\Services\\OrcamentoService.cs",
+              "RelativeToolTip": "Application\\Services\\OrcamentoService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:54:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Application\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Application\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Application\\Services\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:18:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrcamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Infrastructure\\Repositories\\OrcamentoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OrcamentoRepository.cs",
+              "ToolTip": "C:\\Users\\50045\\Documents\\Desenvolvimento\\C#\\PRODUCAO\\HUB_API - TESTE\\Infrastructure\\Repositories\\OrcamentoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OrcamentoRepository.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAUwIYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:46:20.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
